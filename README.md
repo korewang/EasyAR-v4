@@ -13,3 +13,10 @@
 
 
 [easy ar sdk](https://portal.easyar.cn/sdk/1/188225)
+
+
+### 操作方式
+```
+ open Camera scan 中秋.jpg 
+
+```
